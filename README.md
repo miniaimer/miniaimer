@@ -13,15 +13,15 @@
 <br><br>
 <h2 align="left">My commonly used programming languages:</h2>
 <br><br>
-<a href="https://i.imgur.com/css8S7G.png">
+<a href="https://developer.android.com/">
   <img align="center" src="https://i.imgur.com/css8S7G.png" />
 </a>
 <br><br>
-<a href="https://i.imgur.com/K1iDaVB.png">
+<a href="https://unity.com/">
   <img align="center" src="https://i.imgur.com/K1iDaVB.png" />
 </a>
 <br><br>
-<a href="https://i.imgur.com/CocHULH.png">
+<a href="https://angular.io/">
   <img align="center" src="https://i.imgur.com/CocHULH.png" />
 </a>
 <br><br>
