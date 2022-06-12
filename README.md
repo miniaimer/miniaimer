@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christopher Thai</h1>
+<h1 align="center">Hi 👋, I'm Chao</h1>
 <h3 align="center">I love working on a variety of projects</h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
 <img src="https://discordbots.org/api/widget/servers/408785106942164992.svg" alt="christopherbthai" />
 </p>
 
-- 🔭 I’m currently working on [OwO Bot](https://github.com/ChristopherBThai/Discord-OwO-Bot)
+- 🔭 I’m currently working on [OwO Bot](https://miniaimer.com)
 
 - 🌱 I’m currently learning **how to create a "Twitch plays..." via a headless server**
 
