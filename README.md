@@ -2,14 +2,7 @@
   <img align="center" src="https://i.imgur.com/1YtRT6g.png" />
 </a>
 <br>
-<h1 align="center">Hi 👋, I'm Mini Aimer</h1>
-<h3 align="center">I love working on a variety of projects</h3>
-
-<p style="background-color:DodgerBlue;" align="left">
-<img src="https://komarev.com/ghpvc/?username=christopherbthai&label=Profile%20views&color=0e75b6&style=flat" alt="Chao" />
-<img src="https://discordbots.org/api/widget/status/408785106942164992.svg" alt="Chao" />
-<img src="https://discordbots.org/api/widget/servers/408785106942164992.svg" alt="Chao" />
-</p>
+<h1 align="center">Hi 👋, I'm Chao</h1>
 
 - 🔭 I’m currently working on [Mini Aimer](https://miniaimer.com)
 
@@ -18,18 +11,19 @@
 - 📫 How to reach me **ma@miniaimer.com**
 
 <br><br>
-<h2 align="left">Stats and Info:</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniaimer" />
+<h2 align="left">My commonly used programming languages:</h2>
+<br><br>
+<a href="https://i.imgur.com/css8S7G.png">
+  <img align="center" src="https://i.imgur.com/css8S7G.png" />
 </a>
 <br><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://i.imgur.com/K1iDaVB.png">
+  <img align="center" src="https://i.imgur.com/K1iDaVB.png" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<br><br>
+<a href="https://i.imgur.com/CocHULH.png">
+  <img align="center" src="https://i.imgur.com/CocHULH.png" />
 </a>
-
 <br><br>
 
 <h2 align="left">Languages and Tools:</h2>
