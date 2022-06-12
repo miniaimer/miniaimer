@@ -25,8 +25,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-<a href="https://imgur.com/a/CpjRv0U">
-  <img align="center" src="https://imgur.com/a/CpjRv0U" />
+<a href="https://i.imgur.com/LbKGCqT.png">
+  <img align="center" src="https://i.imgur.com/LbKGCqT.png" />
 </a>
 <br><br>
 <h2 align="left">Languages and Tools:</h2>
