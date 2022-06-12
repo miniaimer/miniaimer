@@ -32,7 +32,7 @@
 <br><br>
 <h2 align="left">Achievements:</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopherbthai" alt="christopherbthai" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=miniaimer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <a href="https://i.imgur.com/Meee5RM.png">
   <img align="center" src="https://i.imgur.com/Meee5RM.png" />
