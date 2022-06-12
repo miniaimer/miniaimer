@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chao</h1>
+<h1 align="center">Hi 👋, I'm Mini Aimer</h1>
 <h3 align="center">I love working on a variety of projects</h3>
 
 <p align="left">
