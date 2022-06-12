@@ -1,3 +1,7 @@
+<a href="https://i.imgur.com/1YtRT6g.png">
+  <img align="center" src="https://i.imgur.com/1YtRT6g.png" />
+</a>
+<br>
 <h1 align="center">Hi 👋, I'm Mini Aimer</h1>
 <h3 align="center">I love working on a variety of projects</h3>
 
@@ -35,6 +39,7 @@
 <h2 align="left">Achievements:</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopherbthai" alt="christopherbthai" /></a> </p>
-<a href="https://i.imgur.com/c5umz0R.png">
-  <img align="center" src="https://i.imgur.com/c5umz0R.png" />
+<br>
+<a href="https://i.imgur.com/Meee5RM.png">
+  <img align="center" src="https://i.imgur.com/Meee5RM.png" />
 </a>
