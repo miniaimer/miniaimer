@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Chao</h1>
 
 - 🔭 I’m currently working on [Mini Aimer](https://miniaimer.com)
-
-- 🌱 I’m currently learning **how to create a "Twitch plays..." via a headless server**
-
 - 📫 How to reach me **ma@miniaimer.com**
 
 <br><br>
