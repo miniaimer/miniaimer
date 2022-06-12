@@ -15,7 +15,9 @@
 
 <br><br>
 <h2 align="left">Stats and Info:</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniaimer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniaimer" />
+</a>
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
