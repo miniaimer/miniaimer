@@ -15,8 +15,7 @@
 
 <br><br>
 <h2 align="left">Stats and Info:</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniaimer&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniaimer&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
