@@ -2,10 +2,10 @@
   <img align="center" src="https://i.imgur.com/1YtRT6g.png" />
 </a>
 <br>
-<h1 align="center">Hi 👋, I'm Huy</h1>
+<h1 align="center">Hi 👋</h1>
 
-- 🔭 I’m currently working on [Mini Aimer](https://miniaimer.com) and [Play Ground](https://playgroundx.site/)
-- 📫 How to reach me **ma@miniaimer.com**
+- 🔭 I’m currently working on [Mini Aimer](https://miniaimer.com)
+- 📫 How to reach me **contact@miniaimer.com**
 
 <br><br>
 <h2 align="left">My commonly used programming languages:</h2>
